@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+
+JARDIR=`dirname $BASH_SOURCE`/..
+
+exec java -jar $JARDIR/backpolish-0.1-standalone.jar "$@"

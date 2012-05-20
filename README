@@ -1,0 +1,17 @@
+# backpolish
+
+A simple clojure app to test how to build clojure programs.
+
+## Install
+
+ lein uberjar
+
+## Usage
+
+ ./backpolish 1 2 + 5 * 6 /
+
+## License
+
+Copyright (C) 2012 Dmitry Petrov    
+
+Distributed under the Eclipse Public License, the same as Clojure.
